@@ -1,5 +1,5 @@
 # Account-Message-manager
-#Tech Used:
+# Tech Used:
 PHP,JS
-#Summary
+# Summary
 Creating a multipage account and message portal.
